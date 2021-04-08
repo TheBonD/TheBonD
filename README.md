@@ -4,8 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=TheBonD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheBonD&repo=SQL(https://github.com/TheBonD/SQL">
 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheBonD&repo=SQL&show_owner=true
- https://github.com/TheBonD/SQL">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheBonD&repo=SQL&show_owner=truehttps://github.com/TheBonD/SQL">
 
 
 <!--
