@@ -1,8 +1,7 @@
 ### Hi,I'm Roman 👋
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheBonD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TheBonD&repo=SQL(https://github.com/TheBonD/SQL">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBonD&show_icons=true&theme=gruvbox&hide=stars,issues,contribs)
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheBonD&show_icons=true&theme=dracula&hide=stars,issues,contribs&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
