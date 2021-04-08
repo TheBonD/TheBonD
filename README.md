@@ -3,7 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBonD&show_icons=true&theme=gruvbox&hide=stars,issues,contribs)
 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheBonD&repo=SQL&show_owner=truehttps://github.com/TheBonD/SQL">
 
 
 <!--
