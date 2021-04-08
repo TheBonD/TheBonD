@@ -1,4 +1,4 @@
-### Hi,I'm Roman 👋 
+### 👋 Hi,I'm Roman 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBonD&show_icons=true&theme=flag-india&hide=stars,issues,contribs&locale=ru)
